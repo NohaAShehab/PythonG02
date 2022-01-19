@@ -1,0 +1,34 @@
+
+
+class sdfdgg{
+
+}
+----------------
+abstract class{
+
+has abstract methods --->method signature prototype
+method with out body
+} ----> You cannot take object from this class
+----------
+final class{
+
+} # class cannot be inherited
+
+------
+
+static class {
+
+contains static methods   --->
+}
+--> class you can use its components without taking an object from this class
+
+---- concrete class
+class has implementation for all methods inside
+
+--- singletone class
+-- You can initiate one object only from the class...
+-- private constructor ---> call it inside the class
+
+--- innerclass
+
+
